@@ -3,7 +3,9 @@
 #### Currently Working On
 [gamepack.io](https://www.gamepack.io) - Co-founder/Developer
 
-A platform to play games with friends and family with built in video/audio chat
+A platform to play games with friends and family with built in video/audio 
+
+------
 
 [Lightspeed Quantum](https://www.lightspeedvoice.com) - Lightspeed Voice
 
