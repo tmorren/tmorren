@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Tyler 👋
 
-<!--
-**tmorren/tmorren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently Working On
+[gamepack.io](https://www.gamepack.io) - Co-founder/Developer
 
-Here are some ideas to get you started:
+A platform to play games with friends and family with built in video/audio chat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Lightspeed Quantum](https://www.lightspeedvoice.com) - Lightspeed Voice
+
+A custom CRM built to integrate directly with the Lightspeed Voice phone system.
+
+#### Past Projects
+[NBA Compare](https://www.nba-compare.com) - Personal Project
+
+A fantasy basketball utility to compare the stats of custom teams
